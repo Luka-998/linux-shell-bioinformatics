@@ -1,0 +1,4 @@
+Gene: NM_001301717.2 (Homo sapiens C-C motif chemokine receptor 7 (CCR7), transcript variant 4, mRNA)
+Sequence Length: 2191
+GC-content: 54.77%
+Protein Sequence: L

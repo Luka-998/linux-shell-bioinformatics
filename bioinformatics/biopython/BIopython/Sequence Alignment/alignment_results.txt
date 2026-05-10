@@ -1,0 +1,78 @@
+### Global Alignment (Needleman-Wunsch) ###
+G-ATTA-CA-
+| | |  |  
+GCA-T-GC-U
+  Score=4
+
+G-ATTA-CA-
+| ||   |  
+GCAT--GC-U
+  Score=4
+
+G-ATTACA-
+| | |.|  
+GCA-TGC-U
+  Score=4
+
+G-ATTACA-
+| || .|  
+GCAT-GC-U
+  Score=4
+
+G-ATTACA-
+| ||. |  
+GCATG-C-U
+  Score=4
+
+G-ATTA-CA
+| | |  |.
+GCA-T-GCU
+  Score=4
+
+G-ATTA-CA
+| ||   |.
+GCAT--GCU
+  Score=4
+
+G-ATTACA
+| | |.|.
+GCA-TGCU
+  Score=4
+
+G-ATTACA
+| || .|.
+GCAT-GCU
+  Score=4
+
+G-ATTACA
+| ||. |.
+GCATG-CU
+  Score=4
+
+
+### Local Alignment (Smith-Waterman) ###
+1 G-ATTA-C
+  | | |  |
+1 GCA-T-GC
+  Score=4
+
+1 G-ATTA-C
+  | ||   |
+1 GCAT--GC
+  Score=4
+
+1 G-ATTAC
+  | | |.|
+1 GCA-TGC
+  Score=4
+
+1 G-ATTAC
+  | || .|
+1 GCAT-GC
+  Score=4
+
+1 G-ATTAC
+  | ||. |
+1 GCATG-C
+  Score=4
+

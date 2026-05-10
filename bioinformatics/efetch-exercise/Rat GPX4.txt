@@ -1,0 +1,1626 @@
+LOCUS       NM_001368043             785 bp    mRNA    linear   ROD 27-APR-2025
+DEFINITION  Rattus norvegicus glutathione peroxidase 4 (Gpx4), transcript
+            variant 3, mRNA.
+ACCESSION   NM_001368043
+VERSION     NM_001368043.1
+KEYWORDS    RefSeq.
+SOURCE      Rattus norvegicus (Norway rat)
+  ORGANISM  Rattus norvegicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Rattus.
+REFERENCE   1  (bases 1 to 785)
+  AUTHORS   Chen,B., Fan,P., Song,X. and Duan,M.
+  TITLE     The role and possible mechanism of the ferroptosis-related
+            SLC7A11/GSH/GPX4 pathway in myocardial ischemia-reperfusion injury
+  JOURNAL   BMC Cardiovasc Disord 24 (1), 531 (2024)
+   PUBMED   39354361
+  REMARK    GeneRIF: The role and possible mechanism of the ferroptosis-related
+            SLC7A11/GSH/GPX4 pathway in myocardial ischemia-reperfusion injury.
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 785)
+  AUTHORS   Liu,D., Ren,L. and Liu,J.
+  TITLE     METTL14 promotes chondrocyte ferroptosis in osteoarthritis via m6A
+            modification of GPX4
+  JOURNAL   Int J Rheum Dis 27 (8), e15297 (2024)
+   PUBMED   39175261
+  REMARK    GeneRIF: METTL14 promotes chondrocyte ferroptosis in osteoarthritis
+            via m6A modification of GPX4.
+REFERENCE   3  (bases 1 to 785)
+  AUTHORS   Chen,D., Tang,Q., Song,W. and He,Y.
+  TITLE     Platelet-derived exosomes alleviate tendon stem/progenitor cell
+            senescence and ferroptosis by regulating AMPK/Nrf2/GPX4 signaling
+            and improve tendon-bone junction regeneration in rats
+  JOURNAL   J Orthop Surg Res 19 (1), 382 (2024)
+   PUBMED   38943181
+  REMARK    GeneRIF: Platelet-derived exosomes alleviate tendon stem/progenitor
+            cell senescence and ferroptosis by regulating AMPK/Nrf2/GPX4
+            signaling and improve tendon-bone junction regeneration in rats.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 785)
+  AUTHORS   Pfeifer,H., Conrad,M., Roethlein,D., Kyriakopoulos,A.,
+            Brielmeier,M., Bornkamm,G.W. and Behne,D.
+  TITLE     Identification of a specific sperm nuclei selenoenzyme necessary
+            for protamine thiol cross-linking during sperm maturation
+  JOURNAL   FASEB J 15 (7), 1236-1238 (2001)
+   PUBMED   11344099
+REFERENCE   5  (bases 1 to 785)
+  AUTHORS   Ursini,F., Heim,S., Kiess,M., Maiorino,M., Roveri,A., Wissing,J.
+            and Flohe,L.
+  TITLE     Dual function of the selenoprotein PHGPx during sperm maturation
+  JOURNAL   Science 285 (5432), 1393-1396 (1999)
+   PUBMED   10464096
+  REMARK    GeneRIF: Rat Gpx4 is a moonlighting protein that functions both as
+            a peroxidase, as well as a structural protein.
+REFERENCE   6  (bases 1 to 785)
+  AUTHORS   Arai,M., Imai,H., Koumura,T., Yoshida,M., Emoto,K., Umeda,M.,
+            Chiba,N. and Nakagawa,Y.
+  TITLE     Mitochondrial phospholipid hydroperoxide glutathione peroxidase
+            plays a major role in preventing oxidative injury to cells
+  JOURNAL   J Biol Chem 274 (8), 4924-4933 (1999)
+   PUBMED   9988735
+REFERENCE   7  (bases 1 to 785)
+  AUTHORS   Pushpa-Rekha,T.R., Burdsall,A.L., Oleksa,L.M., Chisolm,G.M. and
+            Driscoll,D.M.
+  TITLE     Rat phospholipid-hydroperoxide glutathione peroxidase. cDNA cloning
+            and identification of multiple transcription and translation start
+            sites
+  JOURNAL   J Biol Chem 270 (45), 26993-26999 (1995)
+   PUBMED   7592947
+REFERENCE   8  (bases 1 to 785)
+  AUTHORS   Imai,H., Sumi,D., Hanamoto,A., Arai,M. and Sugiyama,A.
+  TITLE     Molecular cloning and functional expression of a cDNA for rat
+            phospholipid hydroperoxide glutathione peroxidase: 3'-untranslated
+            region of the gene is necessary for functional expression
+  JOURNAL   J Biochem 118 (5), 1061-1067 (1995)
+   PUBMED   8749327
+REFERENCE   9  (bases 1 to 785)
+  AUTHORS   Roveri,A., Casasco,A., Maiorino,M., Dalan,P., Calligaro,A. and
+            Ursini,F.
+  TITLE     Phospholipid hydroperoxide glutathione peroxidase of rat testis.
+            Gonadotropin dependence and immunocytochemical identification
+  JOURNAL   J Biol Chem 267 (9), 6142-6146 (1992)
+   PUBMED   1556123
+REFERENCE   10 (bases 1 to 785)
+  AUTHORS   Thomas,J.P., Geiger,P.G., Maiorino,M., Ursini,F. and Girotti,A.W.
+  TITLE     Enzymatic reduction of phospholipid and cholesterol hydroperoxides
+            in artificial bilayers and lipoproteins
+  JOURNAL   Biochim Biophys Acta 1045 (3), 252-260 (1990)
+   PUBMED   2386798
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from JAXUCZ010000007.1.
+            
+            Summary: The protein encoded by this gene belongs to the
+            glutathione peroxidase family, members of which catalyze the
+            reduction of hydrogen peroxide, organic hydroperoxides and lipid
+            hydroperoxides, and thereby protect cells against oxidative damage.
+            Several isozymes of this gene family exist in vertebrates, which
+            vary in cellular location and substrate specificity. This isozyme
+            has a high preference for lipid hydroperoxides and protects cells
+            against membrane lipid peroxidation and cell death. It is also
+            required for normal sperm development; thus, it has been identified
+            as a 'moonlighting' protein because of its ability to serve dual
+            functions as a peroxidase, as well as a structural protein in
+            mature spermatozoa. Disruption of this gene in mouse spermatocytes
+            is associated with male infertility. This isozyme is also a
+            selenoprotein, containing the rare amino acid selenocysteine (Sec)
+            at its active site. Sec is encoded by the UGA codon, which normally
+            signals translation termination. The 3' UTRs of selenoprotein mRNAs
+            contain a conserved stem-loop structure, designated the Sec
+            insertion sequence (SECIS) element, that is necessary for the
+            recognition of UGA as a Sec codon, rather than as a stop signal.
+            Transcript variants resulting from alternative splicing or use of
+            alternate promoters have been described to encode isoforms with
+            different subcellular localization. Pseudogenes of this locus have
+            been identified on chromosomes 1, 10 and 14. [provided by RefSeq,
+            Jan 2019].
+            
+            Transcript Variant: This variant (3) uses an alternate promoter,
+            which results in translation initiation from an in-frame downstream
+            AUG start codon compared to variant 1. The encoded isoform (C, also
+            known as the S-form) has a shorter N-terminus compared to isoform A
+            and is localized in the cytoplasm (PMIDs:7592947, 9988735).
+            
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: FQ221899.1, FQ234630.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA5760383, SAMEA5760389
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            gene product(s) localized to mito. :: PMID: 9988735
+            multifunctional gene product(s)    :: PMID: 10464096
+            protein contains selenocysteine    :: PMID: 8749327
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-58                JAXUCZ010000007.1  10303480-10303537   c
+            59-153              JAXUCZ010000007.1  10302587-10302681   c
+            154-298             JAXUCZ010000007.1  10302351-10302495   c
+            299-450             JAXUCZ010000007.1  10302061-10302212   c
+            451-475             JAXUCZ010000007.1  10301309-10301333   c
+            476-535             JAXUCZ010000007.1  10301165-10301224   c
+            536-785             JAXUCZ010000007.1  10300833-10301082   c
+FEATURES             Location/Qualifiers
+     source          1..785
+                     /organism="Rattus norvegicus"
+                     /mol_type="mRNA"
+                     /strain="BN"
+                     /db_xref="taxon:10116"
+                     /chromosome="7"
+                     /map="7q11"
+     gene            1..785
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /note="glutathione peroxidase 4"
+                     /db_xref="GeneID:29328"
+                     /db_xref="RGD:69226"
+     exon            1..58
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             56..568
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /EC_number="1.11.1.9"
+                     /EC_number="1.11.1.12"
+                     /note="UGA stop codon recoded as selenocysteine; isoform C
+                     is encoded by transcript variant 3; phospholipid
+                     hydroperoxide glutathione peroxidase, nuclear;
+                     phospholipid hydroperoxide glutathione peroxidase,
+                     mitochondrial"
+                     /codon_start=1
+                     /transl_except=(pos:191..193,aa:Sec)
+                     /product="phospholipid hydroperoxide glutathione
+                     peroxidase isoform C"
+                     /protein_id="NP_001354972.1"
+                     /db_xref="GeneID:29328"
+                     /db_xref="RGD:69226"
+                     /translation="MCASRDDWRCARSMHEFAAKDIDGHMVCLDKYRGCVCIVTNVAS
+                     QUGKTDVNYTQLVDLHARYAECGLRILAFPCNQFGRQEPGSNQEIKEFAAGYNVRFDM
+                     YSKICVNGDDAHPLWKWMKVQPKGRGMLGNAIKWNFTKFLIDKNGCVVKRYGPMEEPQ
+                     VIEKDLPCYL"
+     misc_feature    191..193
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /note="Selenocysteine; other site"
+     exon            59..153
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /inference="alignment:Splign:2.1.0"
+     exon            154..298
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /inference="alignment:Splign:2.1.0"
+     exon            299..450
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /inference="alignment:Splign:2.1.0"
+     exon            451..475
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /inference="alignment:Splign:2.1.0"
+     exon            476..535
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /inference="alignment:Splign:2.1.0"
+     exon            536..785
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      610..707
+                     /regulatory_class="recoding_stimulatory_region"
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /note="SECIS_element"
+                     /function="essential for recoding UGA to specify
+                     selenocysteine"
+ORIGIN      
+        1 attgaagcca gcactgctgt gcggggctct ggctgtgcct ggcctggctg gcaccatgtg
+       61 tgcatcccgc gatgattggc gctgtgcgcg ctccatgcac gaattcgcag ccaaggacat
+      121 cgatgggcac atggtttgcc tggataagta caggggttgc gtgtgcatcg tcaccaacgt
+      181 ggcctcgcaa tgaggcaaaa ccgacgtaaa ctacactcag ctagtcgatc tgcatgcccg
+      241 atacgccgag tgtggtttac gaatcctggc cttcccttgc aaccagttcg ggaggcagga
+      301 gccaggaagt aatcaagaaa tcaaggagtt tgcagccggc tacaatgtca ggtttgacat
+      361 gtacagcaag atctgtgtaa atggggacga tgcccaccca ctgtggaaat ggatgaaagt
+      421 ccagcccaag ggcaggggca tgctgggaaa tgccatcaaa tggaacttta ccaagtttct
+      481 cattgataag aacggctgcg tggtgaagcg ctatggtccc atggaggagc cccaggtgat
+      541 agagaaggac ctgccgtgct atctctagcc ctacaagtgt gtgcccctgc accgagcccc
+      601 cctgccctgt gacccctgga gccttccacc ccggcactca tgacggtctg cctgaaaacc
+      661 agcccgctgg tggggcagtc ccgaggacct ggcgtgcatc cccgccggag gaaggtccag
+      721 aggcctgtgg ccccgggctc gagcttcacc ttggctgcct tgtgggaata aaatgtagaa
+      781 atgtg
+//
+
+LOCUS       NM_001039849             991 bp    mRNA    linear   ROD 27-APR-2025
+DEFINITION  Rattus norvegicus glutathione peroxidase 4 (Gpx4), transcript
+            variant 2, mRNA.
+ACCESSION   NM_001039849
+VERSION     NM_001039849.3
+KEYWORDS    RefSeq.
+SOURCE      Rattus norvegicus (Norway rat)
+  ORGANISM  Rattus norvegicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Rattus.
+REFERENCE   1  (bases 1 to 991)
+  AUTHORS   Chen,B., Fan,P., Song,X. and Duan,M.
+  TITLE     The role and possible mechanism of the ferroptosis-related
+            SLC7A11/GSH/GPX4 pathway in myocardial ischemia-reperfusion injury
+  JOURNAL   BMC Cardiovasc Disord 24 (1), 531 (2024)
+   PUBMED   39354361
+  REMARK    GeneRIF: The role and possible mechanism of the ferroptosis-related
+            SLC7A11/GSH/GPX4 pathway in myocardial ischemia-reperfusion injury.
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 991)
+  AUTHORS   Liu,D., Ren,L. and Liu,J.
+  TITLE     METTL14 promotes chondrocyte ferroptosis in osteoarthritis via m6A
+            modification of GPX4
+  JOURNAL   Int J Rheum Dis 27 (8), e15297 (2024)
+   PUBMED   39175261
+  REMARK    GeneRIF: METTL14 promotes chondrocyte ferroptosis in osteoarthritis
+            via m6A modification of GPX4.
+REFERENCE   3  (bases 1 to 991)
+  AUTHORS   Chen,D., Tang,Q., Song,W. and He,Y.
+  TITLE     Platelet-derived exosomes alleviate tendon stem/progenitor cell
+            senescence and ferroptosis by regulating AMPK/Nrf2/GPX4 signaling
+            and improve tendon-bone junction regeneration in rats
+  JOURNAL   J Orthop Surg Res 19 (1), 382 (2024)
+   PUBMED   38943181
+  REMARK    GeneRIF: Platelet-derived exosomes alleviate tendon stem/progenitor
+            cell senescence and ferroptosis by regulating AMPK/Nrf2/GPX4
+            signaling and improve tendon-bone junction regeneration in rats.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 991)
+  AUTHORS   Pfeifer,H., Conrad,M., Roethlein,D., Kyriakopoulos,A.,
+            Brielmeier,M., Bornkamm,G.W. and Behne,D.
+  TITLE     Identification of a specific sperm nuclei selenoenzyme necessary
+            for protamine thiol cross-linking during sperm maturation
+  JOURNAL   FASEB J 15 (7), 1236-1238 (2001)
+   PUBMED   11344099
+REFERENCE   5  (bases 1 to 991)
+  AUTHORS   Ursini,F., Heim,S., Kiess,M., Maiorino,M., Roveri,A., Wissing,J.
+            and Flohe,L.
+  TITLE     Dual function of the selenoprotein PHGPx during sperm maturation
+  JOURNAL   Science 285 (5432), 1393-1396 (1999)
+   PUBMED   10464096
+  REMARK    GeneRIF: Rat Gpx4 is a moonlighting protein that functions both as
+            a peroxidase, as well as a structural protein.
+REFERENCE   6  (bases 1 to 991)
+  AUTHORS   Arai,M., Imai,H., Koumura,T., Yoshida,M., Emoto,K., Umeda,M.,
+            Chiba,N. and Nakagawa,Y.
+  TITLE     Mitochondrial phospholipid hydroperoxide glutathione peroxidase
+            plays a major role in preventing oxidative injury to cells
+  JOURNAL   J Biol Chem 274 (8), 4924-4933 (1999)
+   PUBMED   9988735
+REFERENCE   7  (bases 1 to 991)
+  AUTHORS   Pushpa-Rekha,T.R., Burdsall,A.L., Oleksa,L.M., Chisolm,G.M. and
+            Driscoll,D.M.
+  TITLE     Rat phospholipid-hydroperoxide glutathione peroxidase. cDNA cloning
+            and identification of multiple transcription and translation start
+            sites
+  JOURNAL   J Biol Chem 270 (45), 26993-26999 (1995)
+   PUBMED   7592947
+REFERENCE   8  (bases 1 to 991)
+  AUTHORS   Imai,H., Sumi,D., Hanamoto,A., Arai,M. and Sugiyama,A.
+  TITLE     Molecular cloning and functional expression of a cDNA for rat
+            phospholipid hydroperoxide glutathione peroxidase: 3'-untranslated
+            region of the gene is necessary for functional expression
+  JOURNAL   J Biochem 118 (5), 1061-1067 (1995)
+   PUBMED   8749327
+REFERENCE   9  (bases 1 to 991)
+  AUTHORS   Roveri,A., Casasco,A., Maiorino,M., Dalan,P., Calligaro,A. and
+            Ursini,F.
+  TITLE     Phospholipid hydroperoxide glutathione peroxidase of rat testis.
+            Gonadotropin dependence and immunocytochemical identification
+  JOURNAL   J Biol Chem 267 (9), 6142-6146 (1992)
+   PUBMED   1556123
+REFERENCE   10 (bases 1 to 991)
+  AUTHORS   Thomas,J.P., Geiger,P.G., Maiorino,M., Ursini,F. and Girotti,A.W.
+  TITLE     Enzymatic reduction of phospholipid and cholesterol hydroperoxides
+            in artificial bilayers and lipoproteins
+  JOURNAL   Biochim Biophys Acta 1045 (3), 252-260 (1990)
+   PUBMED   2386798
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from JAXUCZ010000007.1.
+            
+            On Jan 7, 2019 this sequence version replaced NM_001039849.2.
+            
+            Summary: The protein encoded by this gene belongs to the
+            glutathione peroxidase family, members of which catalyze the
+            reduction of hydrogen peroxide, organic hydroperoxides and lipid
+            hydroperoxides, and thereby protect cells against oxidative damage.
+            Several isozymes of this gene family exist in vertebrates, which
+            vary in cellular location and substrate specificity. This isozyme
+            has a high preference for lipid hydroperoxides and protects cells
+            against membrane lipid peroxidation and cell death. It is also
+            required for normal sperm development; thus, it has been identified
+            as a 'moonlighting' protein because of its ability to serve dual
+            functions as a peroxidase, as well as a structural protein in
+            mature spermatozoa. Disruption of this gene in mouse spermatocytes
+            is associated with male infertility. This isozyme is also a
+            selenoprotein, containing the rare amino acid selenocysteine (Sec)
+            at its active site. Sec is encoded by the UGA codon, which normally
+            signals translation termination. The 3' UTRs of selenoprotein mRNAs
+            contain a conserved stem-loop structure, designated the Sec
+            insertion sequence (SECIS) element, that is necessary for the
+            recognition of UGA as a Sec codon, rather than as a stop signal.
+            Transcript variants resulting from alternative splicing or use of
+            alternate promoters have been described to encode isoforms with
+            different subcellular localization. Pseudogenes of this locus have
+            been identified on chromosomes 1, 10 and 14. [provided by RefSeq,
+            Jan 2019].
+            
+            Transcript Variant: This variant (2) contains an alternate 5'
+            terminal exon compared to variant 1. The resulting isoform (B, also
+            know as snGPx) has a longer and a distinct N-terminus compared to
+            isoform A. This isoform has been reported to be localized in the
+            sperm nucleus (PMID:11344099).
+            
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AB072798.1, SRR26643293.38622.1
+                                           [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA5760383, SAMEA5760389
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            gene product(s) localized to mito. :: PMID: 9988735
+            multifunctional gene product(s)    :: PMID: 10464096
+            protein contains selenocysteine    :: PMID: 8749327
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-264               JAXUCZ010000007.1  10302896-10303159   c
+            265-359             JAXUCZ010000007.1  10302587-10302681   c
+            360-504             JAXUCZ010000007.1  10302351-10302495   c
+            505-656             JAXUCZ010000007.1  10302061-10302212   c
+            657-681             JAXUCZ010000007.1  10301309-10301333   c
+            682-741             JAXUCZ010000007.1  10301165-10301224   c
+            742-991             JAXUCZ010000007.1  10300833-10301082   c
+FEATURES             Location/Qualifiers
+     source          1..991
+                     /organism="Rattus norvegicus"
+                     /mol_type="mRNA"
+                     /strain="BN"
+                     /db_xref="taxon:10116"
+                     /chromosome="7"
+                     /map="7q11"
+     gene            1..991
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /note="glutathione peroxidase 4"
+                     /db_xref="GeneID:29328"
+                     /db_xref="RGD:69226"
+     exon            1..264
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             13..774
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /EC_number="1.11.1.9"
+                     /EC_number="1.11.1.12"
+                     /note="UGA stop codon recoded as selenocysteine; isoform B
+                     is encoded by transcript variant 2; phospholipid
+                     hydroperoxide glutathione peroxidase, nuclear;
+                     phospholipid hydroperoxide glutathione peroxidase,
+                     mitochondrial"
+                     /codon_start=1
+                     /transl_except=(pos:397..399,aa:Sec)
+                     /product="phospholipid hydroperoxide glutathione
+                     peroxidase isoform B"
+                     /protein_id="NP_001034938.1"
+                     /db_xref="GeneID:29328"
+                     /db_xref="RGD:69226"
+                     /translation="MGRAAARKRGRCRQRGRSPGGRRRREPGRQSPRKRPGPRRRRAR
+                     ARRRRRARPRRMEPIPEPFNPRPLLQDLPQTSNSHEFLGLCASRDDWRCARSMHEFAA
+                     KDIDGHMVCLDKYRGCVCIVTNVASQUGKTDVNYTQLVDLHARYAECGLRILAFPCNQ
+                     FGRQEPGSNQEIKEFAAGYNVRFDMYSKICVNGDDAHPLWKWMKVQPKGRGMLGNAIK
+                     WNFTKFLIDKNGCVVKRYGPMEEPQVIEKDLPCYL"
+     misc_feature    397..399
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /note="Selenocysteine; other site"
+     exon            265..359
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /inference="alignment:Splign:2.1.0"
+     exon            360..504
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /inference="alignment:Splign:2.1.0"
+     exon            505..656
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /inference="alignment:Splign:2.1.0"
+     exon            657..681
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /inference="alignment:Splign:2.1.0"
+     exon            682..741
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /inference="alignment:Splign:2.1.0"
+     exon            742..991
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      816..913
+                     /regulatory_class="recoding_stimulatory_region"
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /note="SECIS_element"
+                     /function="essential for recoding UGA to specify
+                     selenocysteine"
+ORIGIN      
+        1 agacgggcgg gcatgggccg cgcggccgcc cgcaagcggg gacgctgcag acagcgcggc
+       61 cggtccccgg gaggccggcg acggcgtgaa cctggacgcc aaagtcctag gaagcgccca
+      121 ggccctcgga ggaggagagc tcgcgcgcgc cgccgcagga gggcgcgccc tcgccggatg
+      181 gagcccattc ccgagccttt caacccgcgg cctctgctgc aggaccttcc ccagaccagc
+      241 aacagccacg agttcctggg cttgtgtgca tcccgcgatg attggcgctg tgcgcgctcc
+      301 atgcacgaat tcgcagccaa ggacatcgat gggcacatgg tttgcctgga taagtacagg
+      361 ggttgcgtgt gcatcgtcac caacgtggcc tcgcaatgag gcaaaaccga cgtaaactac
+      421 actcagctag tcgatctgca tgcccgatac gccgagtgtg gtttacgaat cctggccttc
+      481 ccttgcaacc agttcgggag gcaggagcca ggaagtaatc aagaaatcaa ggagtttgca
+      541 gccggctaca atgtcaggtt tgacatgtac agcaagatct gtgtaaatgg ggacgatgcc
+      601 cacccactgt ggaaatggat gaaagtccag cccaagggca ggggcatgct gggaaatgcc
+      661 atcaaatgga actttaccaa gtttctcatt gataagaacg gctgcgtggt gaagcgctat
+      721 ggtcccatgg aggagcccca ggtgatagag aaggacctgc cgtgctatct ctagccctac
+      781 aagtgtgtgc ccctgcaccg agcccccctg ccctgtgacc cctggagcct tccaccccgg
+      841 cactcatgac ggtctgcctg aaaaccagcc cgctggtggg gcagtcccga ggacctggcg
+      901 tgcatccccg ccggaggaag gtccagaggc ctgtggcccc gggctcgagc ttcaccttgg
+      961 ctgccttgtg ggaataaaat gtagaaatgt g
+//
+
+LOCUS       NM_017165                877 bp    mRNA    linear   ROD 27-APR-2025
+DEFINITION  Rattus norvegicus glutathione peroxidase 4 (Gpx4), transcript
+            variant 1, mRNA.
+ACCESSION   NM_017165
+VERSION     NM_017165.4
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Rattus norvegicus (Norway rat)
+  ORGANISM  Rattus norvegicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Rattus.
+REFERENCE   1  (bases 1 to 877)
+  AUTHORS   Chen,B., Fan,P., Song,X. and Duan,M.
+  TITLE     The role and possible mechanism of the ferroptosis-related
+            SLC7A11/GSH/GPX4 pathway in myocardial ischemia-reperfusion injury
+  JOURNAL   BMC Cardiovasc Disord 24 (1), 531 (2024)
+   PUBMED   39354361
+  REMARK    GeneRIF: The role and possible mechanism of the ferroptosis-related
+            SLC7A11/GSH/GPX4 pathway in myocardial ischemia-reperfusion injury.
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 877)
+  AUTHORS   Liu,D., Ren,L. and Liu,J.
+  TITLE     METTL14 promotes chondrocyte ferroptosis in osteoarthritis via m6A
+            modification of GPX4
+  JOURNAL   Int J Rheum Dis 27 (8), e15297 (2024)
+   PUBMED   39175261
+  REMARK    GeneRIF: METTL14 promotes chondrocyte ferroptosis in osteoarthritis
+            via m6A modification of GPX4.
+REFERENCE   3  (bases 1 to 877)
+  AUTHORS   Chen,D., Tang,Q., Song,W. and He,Y.
+  TITLE     Platelet-derived exosomes alleviate tendon stem/progenitor cell
+            senescence and ferroptosis by regulating AMPK/Nrf2/GPX4 signaling
+            and improve tendon-bone junction regeneration in rats
+  JOURNAL   J Orthop Surg Res 19 (1), 382 (2024)
+   PUBMED   38943181
+  REMARK    GeneRIF: Platelet-derived exosomes alleviate tendon stem/progenitor
+            cell senescence and ferroptosis by regulating AMPK/Nrf2/GPX4
+            signaling and improve tendon-bone junction regeneration in rats.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 877)
+  AUTHORS   Pfeifer,H., Conrad,M., Roethlein,D., Kyriakopoulos,A.,
+            Brielmeier,M., Bornkamm,G.W. and Behne,D.
+  TITLE     Identification of a specific sperm nuclei selenoenzyme necessary
+            for protamine thiol cross-linking during sperm maturation
+  JOURNAL   FASEB J 15 (7), 1236-1238 (2001)
+   PUBMED   11344099
+REFERENCE   5  (bases 1 to 877)
+  AUTHORS   Ursini,F., Heim,S., Kiess,M., Maiorino,M., Roveri,A., Wissing,J.
+            and Flohe,L.
+  TITLE     Dual function of the selenoprotein PHGPx during sperm maturation
+  JOURNAL   Science 285 (5432), 1393-1396 (1999)
+   PUBMED   10464096
+  REMARK    GeneRIF: Rat Gpx4 is a moonlighting protein that functions both as
+            a peroxidase, as well as a structural protein.
+REFERENCE   6  (bases 1 to 877)
+  AUTHORS   Arai,M., Imai,H., Koumura,T., Yoshida,M., Emoto,K., Umeda,M.,
+            Chiba,N. and Nakagawa,Y.
+  TITLE     Mitochondrial phospholipid hydroperoxide glutathione peroxidase
+            plays a major role in preventing oxidative injury to cells
+  JOURNAL   J Biol Chem 274 (8), 4924-4933 (1999)
+   PUBMED   9988735
+REFERENCE   7  (bases 1 to 877)
+  AUTHORS   Pushpa-Rekha,T.R., Burdsall,A.L., Oleksa,L.M., Chisolm,G.M. and
+            Driscoll,D.M.
+  TITLE     Rat phospholipid-hydroperoxide glutathione peroxidase. cDNA cloning
+            and identification of multiple transcription and translation start
+            sites
+  JOURNAL   J Biol Chem 270 (45), 26993-26999 (1995)
+   PUBMED   7592947
+REFERENCE   8  (bases 1 to 877)
+  AUTHORS   Imai,H., Sumi,D., Hanamoto,A., Arai,M. and Sugiyama,A.
+  TITLE     Molecular cloning and functional expression of a cDNA for rat
+            phospholipid hydroperoxide glutathione peroxidase: 3'-untranslated
+            region of the gene is necessary for functional expression
+  JOURNAL   J Biochem 118 (5), 1061-1067 (1995)
+   PUBMED   8749327
+REFERENCE   9  (bases 1 to 877)
+  AUTHORS   Roveri,A., Casasco,A., Maiorino,M., Dalan,P., Calligaro,A. and
+            Ursini,F.
+  TITLE     Phospholipid hydroperoxide glutathione peroxidase of rat testis.
+            Gonadotropin dependence and immunocytochemical identification
+  JOURNAL   J Biol Chem 267 (9), 6142-6146 (1992)
+   PUBMED   1556123
+REFERENCE   10 (bases 1 to 877)
+  AUTHORS   Thomas,J.P., Geiger,P.G., Maiorino,M., Ursini,F. and Girotti,A.W.
+  TITLE     Enzymatic reduction of phospholipid and cholesterol hydroperoxides
+            in artificial bilayers and lipoproteins
+  JOURNAL   Biochim Biophys Acta 1045 (3), 252-260 (1990)
+   PUBMED   2386798
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from JAXUCZ010000007.1.
+            
+            On Jan 7, 2019 this sequence version replaced NM_017165.3.
+            
+            Summary: The protein encoded by this gene belongs to the
+            glutathione peroxidase family, members of which catalyze the
+            reduction of hydrogen peroxide, organic hydroperoxides and lipid
+            hydroperoxides, and thereby protect cells against oxidative damage.
+            Several isozymes of this gene family exist in vertebrates, which
+            vary in cellular location and substrate specificity. This isozyme
+            has a high preference for lipid hydroperoxides and protects cells
+            against membrane lipid peroxidation and cell death. It is also
+            required for normal sperm development; thus, it has been identified
+            as a 'moonlighting' protein because of its ability to serve dual
+            functions as a peroxidase, as well as a structural protein in
+            mature spermatozoa. Disruption of this gene in mouse spermatocytes
+            is associated with male infertility. This isozyme is also a
+            selenoprotein, containing the rare amino acid selenocysteine (Sec)
+            at its active site. Sec is encoded by the UGA codon, which normally
+            signals translation termination. The 3' UTRs of selenoprotein mRNAs
+            contain a conserved stem-loop structure, designated the Sec
+            insertion sequence (SECIS) element, that is necessary for the
+            recognition of UGA as a Sec codon, rather than as a stop signal.
+            Transcript variants resulting from alternative splicing or use of
+            alternate promoters have been described to encode isoforms with
+            different subcellular localization. Pseudogenes of this locus have
+            been identified on chromosomes 1, 10 and 14. [provided by RefSeq,
+            Jan 2019].
+            
+            Transcript Variant: This variant (1) represents the predominant
+            transcript and encodes the canonical isoform A (also known as phGPx
+            or the L-form), which is localized to the mitochondria
+            (PMID:9988735).
+            
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: FQ221899.1, FQ234630.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA5760383, SAMEA5760389
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            gene product(s) localized to mito. :: PMID: 9988735
+            multifunctional gene product(s)    :: PMID: 10464096
+            protein contains selenocysteine    :: PMID: 8749327
+            RefSeq Select criteria             :: based on conservation,
+                                                  expression
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-150               JAXUCZ010000007.1  10303480-10303629   c
+            151-245             JAXUCZ010000007.1  10302587-10302681   c
+            246-390             JAXUCZ010000007.1  10302351-10302495   c
+            391-542             JAXUCZ010000007.1  10302061-10302212   c
+            543-567             JAXUCZ010000007.1  10301309-10301333   c
+            568-627             JAXUCZ010000007.1  10301165-10301224   c
+            628-877             JAXUCZ010000007.1  10300833-10301082   c
+FEATURES             Location/Qualifiers
+     source          1..877
+                     /organism="Rattus norvegicus"
+                     /mol_type="mRNA"
+                     /strain="BN"
+                     /db_xref="taxon:10116"
+                     /chromosome="7"
+                     /map="7q11"
+     gene            1..877
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /note="glutathione peroxidase 4"
+                     /db_xref="GeneID:29328"
+                     /db_xref="RGD:69226"
+     exon            1..150
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    34..36
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /note="upstream in-frame stop codon"
+     CDS             67..660
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /EC_number="1.11.1.9"
+                     /EC_number="1.11.1.12"
+                     /note="UGA stop codon recoded as selenocysteine; isoform A
+                     precursor is encoded by transcript variant 1; phospholipid
+                     hydroperoxide glutathione peroxidase, nuclear;
+                     phospholipid hydroperoxide glutathione peroxidase,
+                     mitochondrial"
+                     /codon_start=1
+                     /transl_except=(pos:283..285,aa:Sec)
+                     /product="phospholipid hydroperoxide glutathione
+                     peroxidase isoform A precursor"
+                     /protein_id="NP_058861.3"
+                     /db_xref="GeneID:29328"
+                     /db_xref="RGD:69226"
+                     /translation="MSWGRLSRLLKPALLCGALAVPGLAGTMCASRDDWRCARSMHEF
+                     AAKDIDGHMVCLDKYRGCVCIVTNVASQUGKTDVNYTQLVDLHARYAECGLRILAFPC
+                     NQFGRQEPGSNQEIKEFAAGYNVRFDMYSKICVNGDDAHPLWKWMKVQPKGRGMLGNA
+                     IKWNFTKFLIDKNGCVVKRYGPMEEPQVIEKDLPCYL"
+     sig_peptide     67..150
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     misc_feature    184..186
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:22673903; propagated from
+                     UniProtKB/Swiss-Prot (P36970.3); phosphorylation site"
+     misc_feature    283..285
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /note="Selenocysteine; other site"
+     misc_feature    298..300
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:22673903; propagated from
+                     UniProtKB/Swiss-Prot (P36970.3); phosphorylation site"
+     exon            151..245
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /inference="alignment:Splign:2.1.0"
+     exon            246..390
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /inference="alignment:Splign:2.1.0"
+     exon            391..542
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /inference="alignment:Splign:2.1.0"
+     exon            543..567
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /inference="alignment:Splign:2.1.0"
+     exon            568..627
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /inference="alignment:Splign:2.1.0"
+     exon            628..877
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      702..799
+                     /regulatory_class="recoding_stimulatory_region"
+                     /gene="Gpx4"
+                     /gene_synonym="gpx-4; Gshpx-4; Phgpx; snGpx"
+                     /note="SECIS_element"
+                     /function="essential for recoding UGA to specify
+                     selenocysteine"
+ORIGIN      
+        1 gactcggcct cgcgcgtcca ttggtcggct gcgtgagggg aggagccgct ggctccggcc
+       61 gccgagatga gctggggccg tctgagccgc ttattgaagc cagcactgct gtgcggggct
+      121 ctggctgtgc ctggcctggc tggcaccatg tgtgcatccc gcgatgattg gcgctgtgcg
+      181 cgctccatgc acgaattcgc agccaaggac atcgatgggc acatggtttg cctggataag
+      241 tacaggggtt gcgtgtgcat cgtcaccaac gtggcctcgc aatgaggcaa aaccgacgta
+      301 aactacactc agctagtcga tctgcatgcc cgatacgccg agtgtggttt acgaatcctg
+      361 gccttccctt gcaaccagtt cgggaggcag gagccaggaa gtaatcaaga aatcaaggag
+      421 tttgcagccg gctacaatgt caggtttgac atgtacagca agatctgtgt aaatggggac
+      481 gatgcccacc cactgtggaa atggatgaaa gtccagccca agggcagggg catgctggga
+      541 aatgccatca aatggaactt taccaagttt ctcattgata agaacggctg cgtggtgaag
+      601 cgctatggtc ccatggagga gccccaggtg atagagaagg acctgccgtg ctatctctag
+      661 ccctacaagt gtgtgcccct gcaccgagcc cccctgccct gtgacccctg gagccttcca
+      721 ccccggcact catgacggtc tgcctgaaaa ccagcccgct ggtggggcag tcccgaggac
+      781 ctggcgtgca tccccgccgg aggaaggtcc agaggcctgt ggccccgggc tcgagcttca
+      841 ccttggctgc cttgtgggaa taaaatgtag aaatgtg
+//
+
+LOCUS       AB072798                 985 bp    mRNA    linear   ROD 09-MAR-2024
+DEFINITION  Rattus norvegicus GPx4 mRNA for nucleolar phospholipid
+            hydroperoxide glutathione peroxidase, complete cds.
+ACCESSION   AB072798
+VERSION     AB072798.1
+KEYWORDS    .
+SOURCE      Rattus norvegicus (Norway rat)
+  ORGANISM  Rattus norvegicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Rattus.
+REFERENCE   1
+  AUTHORS   Nakamura,T., Imai,H., Tsunashima,N. and Nakagawa,Y.
+  TITLE     Molecular cloning and functional expression of nucleolar
+            phospholipid hydroperoxide glutathione peroxidase in mammalian
+            cells
+  JOURNAL   Biochem Biophys Res Commun 311 (1), 139-148 (2003)
+   PUBMED   14575705
+REFERENCE   2
+  AUTHORS   Imai,H., Nakamura,T. and Nakagawa,Y.
+  TITLE     Cloning of novel rat nuclear phospholipid hydroperoxide glutathione
+            peroxidase
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 985)
+  AUTHORS   Imai,H., Nakamura,T. and Nakagawa,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-OCT-2001) Contact:Hirotaka Imai Kitasato University,
+            School of Pharmaceutical Sciences; Shirokane 5-9-1, Minato-ku,
+            Tokyo-to 108-8641, Japan
+FEATURES             Location/Qualifiers
+     source          1..985
+                     /organism="Rattus norvegicus"
+                     /mol_type="mRNA"
+                     /strain="Sprague-Dawley"
+                     /db_xref="taxon:10116"
+                     /sex="male"
+                     /tissue_type="testis"
+     gene            1..985
+                     /gene="GPx4"
+     CDS             13..774
+                     /gene="GPx4"
+                     /note="nucleolar GPx4"
+                     /codon_start=1
+                     /transl_except=(pos:397..399,aa:Sec)
+                     /product="nucleolar phospholipid hydroperoxide glutathione
+                     peroxidase"
+                     /protein_id="BAC87836.1"
+                     /translation="MGRAAARKRGRCRQRGRSPGGRRRREPGRQSPRKRPGPRRRRAR
+                     ARRRRRAPPRRMEPIPEPFNPRPLLQDLPQTSNSHEFLGLCASRDDWRCARSMHEFAA
+                     KDIDGHMVCLDKYRGCVCIVTNVASQUGKTDVNYTQLVDLHARYAECGLRILAFPCNQ
+                     FGRQEPGSNQEIKEFAAGYNVRFDMYSKVCVNGDDAHPLWKWMKVQPKGRGMLGNAIK
+                     WNFTKFLIDKNGCVVKRYGPMEEPQVIEKDLPCYL"
+     transit_peptide 13..264
+                     /gene="GPx4"
+                     /note="nuclear import signal"
+     regulatory      972..978
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="GPx4"
+ORIGIN      
+        1 agaccggcgg gcatgggccg cgcggccgcc cgcaagcggg gacgctgcag acagcgcggc
+       61 cggtccccgg gaggccggcg acggcgtgaa cctggacgcc aaagtcctag gaagcgccca
+      121 ggccctcgga ggaggagagc tcgcgcgcgc cgccgcagga gggcgccccc tcgccggatg
+      181 gagcccattc ccgagccttt caacccgcgg cctctgctgc aggaccttcc ccagaccagc
+      241 aacagccacg agttcctggg cttgtgtgca tcccgcgatg attggcgctg tgcgcgctcc
+      301 atgcacgaat tcgcagccaa ggacatcgat gggcacatgg tttgcctgga taagtacagg
+      361 ggttgcgtgt gcatcgtcac caacgtggcc tcgcaatgag gcaaaaccga cgtaaactac
+      421 actcagctag tcgatctgca tgcccgatac gctgagtgtg gtttacgaat cctggccttc
+      481 ccttgcaacc agttcgggag gcaggagcca ggaagtaatc aagaaatcaa ggagtttgca
+      541 gccggctaca atgtcaggtt tgacatgtac agcaaggtct gtgtaaatgg ggacgatgcc
+      601 cacccactgt ggaaatggat gaaagtccag cccaagggca ggggcatgct gggaaatgcc
+      661 atcaaatgga actttaccaa gtttctcatt gataagaacg gctgcgtggt gaagcgctat
+      721 ggtcccatgg aggagcccca ggtgatagag aaggacctgc cgtgctatct ctagccctac
+      781 aagtgtgtgc ccctgcaccg agcccccctg ccctgtgacc cctggagcct tccaccccgg
+      841 cactcatgac ggtctgcctg aaaaccagcc cgctggtggg gcagtcccga ggacctggcg
+      901 tgcatccccg ccggaggaag gtccagagcc tgtggccccg ggctcgagct tcaccttggc
+      961 tgccttgtgg gaataaaatg tagaa
+//
+
+LOCUS       NC_086025          137014596 bp    DNA     linear   CON 22-FEB-2024
+DEFINITION  Rattus norvegicus strain BN/NHsdMcwi chromosome 7, GRCr8, whole
+            genome shotgun sequence.
+ACCESSION   NC_086025
+VERSION     NC_086025.1
+DBLINK      BioProject: PRJNA1074393
+            BioSample: SAMN38730095
+            Assembly: GCF_036323735.1
+KEYWORDS    WGS; RefSeq.
+SOURCE      Rattus norvegicus (Norway rat)
+  ORGANISM  Rattus norvegicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Rattus.
+COMMENT     REFSEQ INFORMATION: The reference sequence is identical to
+            CM070397.1.
+            Assembly name: GRCr8
+            The genomic sequence for this RefSeq record is from the
+            whole-genome assembly released by the Genome Reference Consortium
+            on 2024/01/31. The original whole-genome shotgun project has the
+            accession JAXUCZ000000000.1.
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Provider      :: Genome Reference Consortium
+            Assembly Date          :: 30-MAY-2023
+            Assembly Method        :: HiCanu v. 2022-09-10
+            Assembly Name          :: GRCr8
+            Genome Representation  :: Full
+            Expected Final Version :: Yes
+            Genome Coverage        :: 40.0x
+            Sequencing Technology  :: PacBio Sequel
+            ##Genome-Assembly-Data-END##
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI RefSeq
+            Annotation Status           :: Full annotation
+            Annotation Name             :: GCF_036323735.1-RS_2024_02
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 10.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon;
+                                           cmsearch; tRNAscan-SE
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            Annotation Date             :: 02/09/2024
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..137014596
+                     /organism="Rattus norvegicus"
+                     /mol_type="genomic DNA"
+                     /strain="BN/NHsdMcwi"
+                     /bio_material="RGD 61498"
+                     /db_xref="taxon:10116"
+                     /chromosome="7"
+                     /sex="male"
+                     /tissue_type="kidney, spleen, liver"
+                     /geo_loc_name="USA: Wisconsin, Milwaukee"
+                     /lat_lon="43.05 N 88.04 W"
+                     /collected_by="Rebecca Schilling, Melinda Dwinell"
+CONTIG      join(NW_026947346.1:1..137014596)
+//
+
+LOCUS       XM_032908374            1289 bp    mRNA    linear   ROD 14-MAR-2020
+DEFINITION  PREDICTED: Rattus rattus glutathione peroxidase 4 (Gpx4),
+            transcript variant X2, mRNA.
+ACCESSION   XM_032908374
+VERSION     XM_032908374.1
+DBLINK      BioProject: PRJNA612505
+KEYWORDS    RefSeq.
+SOURCE      Rattus rattus (black rat)
+  ORGANISM  Rattus rattus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Rattus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_046154.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Rattus rattus Annotation Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1289
+                     /organism="Rattus rattus"
+                     /mol_type="mRNA"
+                     /isolate="New Zealand"
+                     /db_xref="taxon:10117"
+                     /chromosome="1"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+     gene            1..1289
+                     /gene="Gpx4"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 38 ESTs, 13 Proteins, and 97%
+                     coverage of the annotated genomic feature by RNAseq
+                     alignments"
+                     /db_xref="GeneID:116905409"
+     CDS             310..1071
+                     /gene="Gpx4"
+                     /codon_start=1
+                     /transl_except=(pos:694..696,aa:Sec)
+                     /product="phospholipid hydroperoxide glutathione
+                     peroxidase isoform X2"
+                     /protein_id="XP_032764265.1"
+                     /db_xref="GeneID:116905409"
+                     /translation="MGRAAARKRGRCRQRGRSPGGRRRREPGRQSPRKRPGPRRRKAR
+                     ARRRKRARPRRMEPIPEPFNPRPLLQDLPQTSNSHEFLGLCASRDDWRCARSMHEFAA
+                     KDIDGHMVCLDKYRGCVCIVTNVASQUGKTDVNYTQLVDLHARYAECGLRILAFPCNQ
+                     FGRQEPGSNQEIKEFAAGYNVRFDMYSKICVNGDDAHPLWKWMKVQPKGRGMLGNAIK
+                     WNFTKFLIDKNGCVVKRYGPMEEPQVIEKDLPCYL"
+ORIGIN      
+        1 tcgcgggagg gggcagggtt ggagtcgggt cactgtgtcc agggtggagg tcggggggtc
+       61 gtgggatcgg ttagctagag tagggggcac ccaggtggga aagcggagtc tgataggcat
+      121 ccccggggct gaacaaggcc aggcctcggc cggggaggtt cctggggggt gggaaccggt
+      181 gtcggggtca ctgtagcggg ctctgacctg gtcacgcgcc ccgcctggcc tgatgcgtca
+      241 cagtcggcgg ctccttggct accggctctt tgtccccgcg ctgtgcttgg gacgcacaga
+      301 cgggcgggca tgggccgcgc ggccgcccgc aagcggggac gctgcagaca gcgcggccgg
+      361 tccccgggag gccggcgacg gcgtgaacct ggacgccaaa gtcctaggaa gcgcccaggc
+      421 cctcggagga gaaaagctcg cgcgcgccgc cgcaagaggg cgcgccctcg ccggatggag
+      481 cccattcccg agcctttcaa cccgcggcct ctgctgcagg accttcccca gaccagcaac
+      541 agccacgagt tcctgggctt gtgtgcatcc cgcgatgatt ggcgctgtgc gcgctccatg
+      601 cacgaattcg cagccaagga catcgatggg cacatggttt gcctggataa gtacaggggt
+      661 tgcgtgtgca tcgtcaccaa cgtggcctcg caatgaggca aaaccgacgt aaactacact
+      721 cagctagtcg atctgcatgc ccgatacgcc gagtgtggtt tacgaatcct ggccttccct
+      781 tgcaaccagt tcgggaggca ggagccagga agtaatcaag aaatcaagga gtttgcagcc
+      841 ggctacaatg tcaggtttga catgtacagc aagatctgtg taaatgggga cgatgcccac
+      901 ccactgtgga aatggatgaa agtccagccc aagggcaggg gcatgctggg aaatgccatc
+      961 aaatggaact ttaccaagtt tctcattgat aagaacggct gcgtggtgaa gcgctatggt
+     1021 cccatggagg agccccaggt gatagagaag gacctgccgt gctatctcta gccctacaag
+     1081 tgtgtgcccc tgcaccgagc ccccctgccc tgtgacccct ggagccttcc accccggcac
+     1141 tcatgacggt ctgcctaaaa accagcccgc tggtggggca gtcccgagga cctggcgtgc
+     1201 atccccgccg gaggaaggtc cagaggcctg tggccccggg ctcgagcttc accttggctg
+     1261 ccttgtggga ataaaatgta gaaatgtgc
+//
+
+LOCUS       XM_032908372             855 bp    mRNA    linear   ROD 14-MAR-2020
+DEFINITION  PREDICTED: Rattus rattus glutathione peroxidase 4 (Gpx4),
+            transcript variant X1, mRNA.
+ACCESSION   XM_032908372
+VERSION     XM_032908372.1
+DBLINK      BioProject: PRJNA612505
+KEYWORDS    RefSeq.
+SOURCE      Rattus rattus (black rat)
+  ORGANISM  Rattus rattus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Rattus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_046154.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Rattus rattus Annotation Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..855
+                     /organism="Rattus rattus"
+                     /mol_type="mRNA"
+                     /isolate="New Zealand"
+                     /db_xref="taxon:10117"
+                     /chromosome="1"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+     gene            1..855
+                     /gene="Gpx4"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 15 mRNAs, 34 ESTs, 12 Proteins,
+                     and 100% coverage of the annotated genomic feature by
+                     RNAseq alignments, including 24 samples with support for
+                     all annotated introns"
+                     /db_xref="GeneID:116905409"
+     CDS             44..637
+                     /gene="Gpx4"
+                     /codon_start=1
+                     /transl_except=(pos:260..262,aa:Sec)
+                     /product="phospholipid hydroperoxide glutathione
+                     peroxidase isoform X1"
+                     /protein_id="XP_032764263.1"
+                     /db_xref="GeneID:116905409"
+                     /translation="MSWGRLSRLLKPALLCGALAVPGLAGTMCASRDDWRCARSMHEF
+                     AAKDIDGHMVCLDKYRGCVCIVTNVASQUGKTDVNYTQLVDLHARYAECGLRILAFPC
+                     NQFGRQEPGSNQEIKEFAAGYNVRFDMYSKICVNGDDAHPLWKWMKVQPKGRGMLGNA
+                     IKWNFTKFLIDKNGCVVKRYGPMEEPQVIEKDLPCYL"
+ORIGIN      
+        1 gtcggctgcg tgaggggagg agccgctggc tccggccgcc gagatgagct ggggccgtct
+       61 gagccgctta ttgaagccag cactgctgtg cggggctctg gctgtgcctg gcctggctgg
+      121 caccatgtgt gcatcccgcg atgattggcg ctgtgcgcgc tccatgcacg aattcgcagc
+      181 caaggacatc gatgggcaca tggtttgcct ggataagtac aggggttgcg tgtgcatcgt
+      241 caccaacgtg gcctcgcaat gaggcaaaac cgacgtaaac tacactcagc tagtcgatct
+      301 gcatgcccga tacgccgagt gtggtttacg aatcctggcc ttcccttgca accagttcgg
+      361 gaggcaggag ccaggaagta atcaagaaat caaggagttt gcagccggct acaatgtcag
+      421 gtttgacatg tacagcaaga tctgtgtaaa tggggacgat gcccacccac tgtggaaatg
+      481 gatgaaagtc cagcccaagg gcaggggcat gctgggaaat gccatcaaat ggaactttac
+      541 caagtttctc attgataaga acggctgcgt ggtgaagcgc tatggtccca tggaggagcc
+      601 ccaggtgata gagaaggacc tgccgtgcta tctctagccc tacaagtgtg tgcccctgca
+      661 ccgagccccc ctgccctgtg acccctggag ccttccaccc cggcactcat gacggtctgc
+      721 ctaaaaacca gcccgctggt ggggcagtcc cgaggacctg gcgtgcatcc ccgccggagg
+      781 aaggtccaga ggcctgtggc cccgggctcg agcttcacct tggctgcctt gtgggaataa
+      841 aatgtagaaa tgtgc
+//
+
+LOCUS       NC_046154          272949890 bp    DNA     linear   CON 14-MAR-2020
+DEFINITION  Rattus rattus isolate New Zealand chromosome 1, Rrattus_CSIRO_v1,
+            whole genome shotgun sequence.
+ACCESSION   NC_046154
+VERSION     NC_046154.1
+DBLINK      BioProject: PRJNA612505
+            BioSample: SAMN12855339
+            Assembly: GCF_011064425.1
+KEYWORDS    WGS; RefSeq.
+SOURCE      Rattus rattus (black rat)
+  ORGANISM  Rattus rattus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Rattus.
+COMMENT     REFSEQ INFORMATION: The reference sequence is identical to
+            CM021548.1.
+            Assembly name: Rrattus_CSIRO_v1
+            The genomic sequence for this RefSeq record is from the
+            whole-genome assembly released by the CSIRO on 2020/03/04. The
+            original whole-genome shotgun project has the accession
+            JAAIVD000000000.1.
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Provider      :: CSIRO
+            Assembly Date          :: 01-SEP-2019
+            Assembly Method        :: Flye v. 2.5; allhic v. 0.9.8; racon v.
+                                      1.4.6
+            Assembly Name          :: Rrattus_CSIRO_v1
+            Genome Representation  :: Full
+            Expected Final Version :: Yes
+            Genome Coverage        :: 130.0x
+            Sequencing Technology  :: Illumina HiSeq; Oxford Nanopore
+            ##Genome-Assembly-Data-END##
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Rattus rattus Annotation Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..272949890
+                     /organism="Rattus rattus"
+                     /mol_type="genomic DNA"
+                     /isolate="New Zealand"
+                     /db_xref="taxon:10117"
+                     /chromosome="1"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /dev_stage="adult"
+CONTIG      join(NW_022651118.1:1..272949890)
+//
+
+LOCUS       CH474029             8799887 bp    DNA     linear   CON 26-JUL-2016
+DEFINITION  Rattus norvegicus 342000077096022 genomic scaffold, whole genome
+            shotgun sequence.
+ACCESSION   CH474029 AAHX01000000
+VERSION     CH474029.1
+DBLINK      BioProject: PRJNA13999
+            BioSample: SAMN03000701
+KEYWORDS    WGS.
+SOURCE      Rattus norvegicus (Norway rat)
+  ORGANISM  Rattus norvegicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Rattus.
+REFERENCE   1  (bases 1 to 8799887)
+  AUTHORS   Florea,L., Di Francesco,V., Miller,J., Turner,R., Yao,A.,
+            Harris,M., Walenz,B., Mobarry,C., Merkulov,G.V., Charlab,R.,
+            Dew,I., Deng,Z., Istrail,S., Li,P. and Sutton,G.
+  TITLE     Gene and alternative splicing annotation with AIR
+  JOURNAL   Genome Res. 15 (1), 54-66 (2005)
+   PUBMED   15632090
+REFERENCE   2  (bases 1 to 8799887)
+  AUTHORS   Mural,R.J., Li,P.W., Adams,M.D., Amanatides,P.G., Baden-Tillson,H.,
+            Barnstead,M., Chin,S.H., Dew,I., Evans,C.A., Ferriera,S.,
+            Flanigan,M., Fosler,C., Glodek,A., Gu,Z., Holt,R.A., Jennings,D.,
+            Kraft,C.L., Lu,F., Nguyen,T., Nusskern,D.R., Pfannkoch,C.M.,
+            Sitter,C., Sutton,G.G., Venter,J.C., Wang,Z., Woodage,T.,
+            Zheng,X.H. and Zhong,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JUL-2005) Celera Genomics, 45 W. Gude Dr., Rockville,
+            MD 20850, USA
+COMMENT     This version of genes, transcripts, and proteins was
+            computationally created in August 2003 from the whole-genome
+            mapping of transcript and protein sequences on the Celera rat
+            genome assembly by Celera Advanced Solutions, Chromosome Team,
+            Content Systems, and Informatics Research.  The data sets used by
+            this annotation process were collected in 2003 and include manually
+            annotated transcripts from Celera's mouse assembly, RefSeq (NM_
+            from rat and mouse) sequences, GenBank mRNA and dbEST sequences,
+            and mammalian SwissProt sequences (all mouse and rat unless noted
+            otherwise).  The CDS of each transcript was computationally defined
+            by either the longest ATG-to-Stop or the longest open reading
+            frame. All CDSs corresponding to the longest open reading frames
+            with no starting ATG were flagged as partial.
+            This is the January 2003 combined whole genome shotgun assembly of
+            Rattus norvegicus. It contains 29 million Brown Norway fragments
+            sequenced by Celera and external sources and nearly eight million
+            Celera-proprietary Sprague-Dawley sequence fragments. The assembly
+            process relied on Celera's paired reads and BAC end reads from TIGR
+            for long range order and orientation. Its scaffolds were mapped to
+            chromosomes using STS maps. For more detailed information about
+            whole genome sequencing and Celera's assembly process, please refer
+            to Venter, J.C. et al. Science 2001. 291:1304-1351.
+FEATURES             Location/Qualifiers
+     source          1..8799887
+                     /organism="Rattus norvegicus"
+                     /mol_type="genomic DNA"
+                     /strain="BN; Sprague-Dawley"
+                     /db_xref="taxon:10116"
+                     /chromosome="7"
+CONTIG      join(AAHX01047218.1:1..18464,gap(946),
+            complement(AAHX01047219.1:1..3840),gap(1286),
+            AAHX01047220.1:1..2249,gap(955),AAHX01047221.1:1..5339,gap(124052),
+            AAHX01047222.1:1..17368,gap(566),
+            complement(AAHX01047223.1:1..1006),gap(1741),
+            AAHX01047224.1:1..4496,gap(291),AAHX01047225.1:1..8900,gap(20),
+            AAHX01047226.1:1..61482,gap(20),AAHX01047227.1:1..20766,gap(408),
+            AAHX01047228.1:1..3719,gap(43056),AAHX01047229.1:1..1445,gap(3620),
+            AAHX01047230.1:1..7731,gap(2459),AAHX01047231.1:1..11992,gap(198),
+            AAHX01047232.1:1..7322,gap(679),AAHX01047233.1:1..1618,gap(763),
+            complement(AAHX01047234.1:1..5563),gap(31),AAHX01047235.1:1..2441,
+            gap(3154),complement(AAHX01047236.1:1..3493),gap(5086),
+            complement(AAHX01047237.1:1..32185),gap(20),AAHX01047238.1:1..7723,
+            gap(20),complement(AAHX01047239.1:1..9495),gap(92),
+            complement(AAHX01047240.1:1..6127),gap(20),
+            complement(AAHX01047241.1:1..13440),gap(504),
+            complement(AAHX01047242.1:1..8182),gap(20),AAHX01047243.1:1..13241,
+            gap(1997),complement(AAHX01047244.1:1..4129),gap(4511),
+            complement(AAHX01047245.1:1..21440),gap(2125),
+            AAHX01047246.1:1..25091,gap(1001),
+            complement(AAHX01047247.1:1..7495),gap(20),
+            complement(AAHX01047248.1:1..2500),gap(613),AAHX01047249.1:1..1579,
+            gap(1667),AAHX01047250.1:1..10741,gap(617),
+            complement(AAHX01047251.1:1..7208),gap(20),AAHX01047252.1:1..6697,
+            gap(20),AAHX01047253.1:1..3292,gap(20),
+            complement(AAHX01047254.1:1..11044),gap(267),
+            AAHX01047255.1:1..5533,gap(304),complement(AAHX01047256.1:1..8214),
+            gap(36),complement(AAHX01047257.1:1..2631),gap(258),
+            AAHX01047258.1:1..3608,gap(2598),
+            complement(AAHX01047259.1:1..5404),gap(2361),
+            complement(AAHX01047260.1:1..4574),gap(20),
+            complement(AAHX01047261.1:1..12590),gap(603),
+            complement(AAHX01047262.1:1..2719),gap(20),
+            complement(AAHX01047263.1:1..2000),gap(146),
+            complement(AAHX01047264.1:1..1286),gap(1870),
+            complement(AAHX01047265.1:1..10438),gap(1783),
+            complement(AAHX01047266.1:1..23435),gap(252),
+            complement(AAHX01047267.1:1..21459),gap(590),
+            complement(AAHX01047268.1:1..2980),gap(55),
+            complement(AAHX01047269.1:1..11550),gap(561),
+            complement(AAHX01047270.1:1..8196),gap(1036),
+            AAHX01047271.1:1..35568,gap(20),AAHX01047272.1:1..11899,gap(136),
+            complement(AAHX01047273.1:1..4769),gap(20),AAHX01047274.1:1..20915,
+            gap(535),complement(AAHX01047275.1:1..3262),gap(369),
+            AAHX01047276.1:1..8626,gap(3059),
+            complement(AAHX01047277.1:1..29450),gap(20),
+            complement(AAHX01047278.1:1..49984),gap(20),
+            complement(AAHX01047279.1:1..30193),gap(20),
+            complement(AAHX01047280.1:1..8848),gap(849),
+            complement(AAHX01047281.1:1..2407),gap(731),
+            complement(AAHX01047282.1:1..9545),gap(20),AAHX01047283.1:1..8875,
+            gap(175),complement(AAHX01047284.1:1..36950),gap(190),
+            complement(AAHX01047285.1:1..22568),gap(20),AAHX01047286.1:1..2153,
+            gap(175),AAHX01047287.1:1..3476,gap(149),AAHX01047288.1:1..4011,
+            gap(151),complement(AAHX01047289.1:1..9597),gap(5415),
+            complement(AAHX01047290.1:1..783),gap(1201),
+            complement(AAHX01047291.1:1..4043),gap(134),
+            complement(AAHX01047292.1:1..3284),gap(257),
+            complement(AAHX01047293.1:1..6653),gap(4326),
+            complement(AAHX01047294.1:1..7513),gap(6116),
+            AAHX01047295.1:1..3150,gap(135),AAHX01047296.1:1..17507,gap(20),
+            AAHX01047297.1:1..10327,gap(100),
+            complement(AAHX01047298.1:1..10974),gap(96),AAHX01047299.1:1..3746,
+            gap(959),AAHX01047300.1:1..1951,gap(20),
+            complement(AAHX01047301.1:1..3816),gap(5224),
+            complement(AAHX01047302.1:1..20243),gap(20),
+            AAHX01047303.1:1..10824,gap(20),
+            complement(AAHX01047304.1:1..12274),gap(480),
+            AAHX01047305.1:1..1569,gap(442),complement(AAHX01047306.1:1..1577),
+            gap(20),AAHX01047307.1:1..13435,gap(175),
+            complement(AAHX01047308.1:1..2153),gap(157),
+            complement(AAHX01047309.1:1..11542),gap(20),AAHX01047310.1:1..1298,
+            gap(20),AAHX01047311.1:1..1448,gap(1355),
+            complement(AAHX01047312.1:1..78065),gap(20),
+            complement(AAHX01047313.1:1..1472),gap(60),AAHX01047314.1:1..1683,
+            gap(1413),complement(AAHX01047315.1:1..6979),gap(16351),
+            complement(AAHX01047316.1:1..10122),gap(20),
+            complement(AAHX01047317.1:1..8016),gap(291),
+            complement(AAHX01047318.1:1..2496),gap(3979),
+            complement(AAHX01047319.1:1..4640),gap(800),
+            complement(AAHX01047320.1:1..54233),gap(357),
+            complement(AAHX01047321.1:1..11066),gap(20),
+            complement(AAHX01047322.1:1..4961),gap(20),
+            complement(AAHX01047323.1:1..8378),gap(449),
+            complement(AAHX01047324.1:1..2568),gap(1460),
+            complement(AAHX01047325.1:1..10982),gap(1363),
+            complement(AAHX01047326.1:1..8256),gap(219),
+            complement(AAHX01047327.1:1..23325),gap(20),
+            complement(AAHX01047328.1:1..21460),gap(46),
+            AAHX01047329.1:1..61159,gap(8687),AAHX01047330.1:1..62082,gap(111),
+            AAHX01047331.1:1..1634,gap(448),
+            complement(AAHX01047332.1:1..22374),gap(25),
+            complement(AAHX01047333.1:1..24713),gap(216),
+            complement(AAHX01047334.1:1..20966),gap(1337),
+            AAHX01047335.1:1..12598,gap(535),AAHX01047336.1:1..5909,gap(317),
+            complement(AAHX01047337.1:1..16559),gap(20),
+            AAHX01047338.1:1..19273,gap(268),AAHX01047339.1:1..38353,gap(293),
+            complement(AAHX01047340.1:1..1182),gap(938),
+            complement(AAHX01047341.1:1..1917),gap(168),
+            complement(AAHX01047342.1:1..15913),gap(20),AAHX01047343.1:1..2512,
+            gap(50),AAHX01047344.1:1..14962,gap(59),AAHX01047345.1:1..4358,
+            gap(255),complement(AAHX01047346.1:1..1211),gap(2358),
+            complement(AAHX01047347.1:1..55235),gap(20),
+            AAHX01047348.1:1..22802,gap(7770),AAHX01047349.1:1..36932,gap(20),
+            complement(AAHX01047350.1:1..16008),gap(4498),
+            AAHX01047351.1:1..34881,gap(430),AAHX01047352.1:1..12778,gap(613),
+            complement(AAHX01047353.1:1..9669),gap(39),
+            complement(AAHX01047354.1:1..15078),gap(203),
+            AAHX01047355.1:1..3587,gap(1556),
+            complement(AAHX01047356.1:1..105320),gap(20),
+            AAHX01047357.1:1..15391,gap(20),AAHX01047358.1:1..9508,gap(1247),
+            AAHX01047359.1:1..62113,gap(59),
+            complement(AAHX01047360.1:1..19364),gap(20),
+            complement(AAHX01047361.1:1..41048),gap(20),
+            complement(AAHX01047362.1:1..65045),gap(151),
+            AAHX01047363.1:1..43830,gap(215),
+            complement(AAHX01047364.1:1..20959),gap(278),
+            AAHX01047365.1:1..94148,gap(20),complement(AAHX01047366.1:1..8742),
+            gap(205),complement(AAHX01047367.1:1..146471),gap(1269),
+            AAHX01047368.1:1..30025,gap(20),AAHX01047369.1:1..7038,gap(20),
+            AAHX01047370.1:1..3777,gap(983),complement(AAHX01047371.1:1..1132),
+            gap(20),AAHX01047372.1:1..97192,gap(93),AAHX01047373.1:1..4811,
+            gap(1208),AAHX01047374.1:1..1272,gap(377),AAHX01047375.1:1..2541,
+            gap(20),complement(AAHX01047376.1:1..19765),gap(404),
+            AAHX01047377.1:1..7145,gap(186),complement(AAHX01047378.1:1..5771),
+            gap(5472),complement(AAHX01047379.1:1..2417),gap(20),
+            AAHX01047380.1:1..1088,gap(656),AAHX01047381.1:1..63810,gap(6502),
+            AAHX01047382.1:1..28352,gap(20),
+            complement(AAHX01047383.1:1..19411),gap(707),
+            complement(AAHX01047384.1:1..4276),gap(4578),
+            complement(AAHX01047385.1:1..5221),gap(254),
+            complement(AAHX01047386.1:1..70399),gap(20),
+            AAHX01047387.1:1..23263,gap(954),
+            complement(AAHX01047388.1:1..4807),gap(103),AAHX01047389.1:1..8167,
+            gap(20),AAHX01047390.1:1..70872,gap(20),AAHX01047391.1:1..93845,
+            gap(20),AAHX01047392.1:1..8064,gap(3067),
+            complement(AAHX01047393.1:1..26187),gap(26325),
+            complement(AAHX01047394.1:1..25418),gap(20),
+            AAHX01047395.1:1..61527,gap(357),AAHX01047396.1:1..8691,gap(98),
+            complement(AAHX01047397.1:1..4962),gap(592),
+            complement(AAHX01047398.1:1..12666),gap(63),
+            complement(AAHX01047399.1:1..11240),gap(20),
+            AAHX01047400.1:1..23548,gap(403),AAHX01047401.1:1..20091,gap(20),
+            AAHX01047402.1:1..7417,gap(20),complement(AAHX01047403.1:1..8339),
+            gap(1507),complement(AAHX01047404.1:1..4499),gap(4683),
+            AAHX01047405.1:1..33038,gap(20),complement(AAHX01047406.1:1..3162),
+            gap(50),AAHX01047407.1:1..2332,gap(20),
+            complement(AAHX01047408.1:1..28505),gap(20),
+            AAHX01047409.1:1..75993,gap(194),
+            complement(AAHX01047410.1:1..25237),gap(20),
+            complement(AAHX01047411.1:1..8578),gap(52),
+            complement(AAHX01047412.1:1..2047),gap(571),
+            AAHX01047413.1:1..44964,gap(50),AAHX01047414.1:1..80534,gap(5625),
+            AAHX01047415.1:1..29245,gap(10990),AAHX01047416.1:1..12110,
+            gap(997),AAHX01047417.1:1..4726,gap(7387),
+            complement(AAHX01047418.1:1..4441),gap(20),
+            complement(AAHX01047419.1:1..6719),gap(2677),
+            complement(AAHX01047420.1:1..115885),gap(20),
+            complement(AAHX01047421.1:1..15477),gap(20),
+            AAHX01047422.1:1..30127,gap(625),AAHX01047423.1:1..23254,gap(1120),
+            complement(AAHX01047424.1:1..8379),gap(436),
+            AAHX01047425.1:1..12907,gap(20),AAHX01047426.1:1..16242,gap(1017),
+            complement(AAHX01047427.1:1..2917),gap(42),AAHX01047428.1:1..9462,
+            gap(59),complement(AAHX01047429.1:1..15496),gap(4242),
+            AAHX01047430.1:1..6968,gap(134),AAHX01047431.1:1..55476,gap(20),
+            complement(AAHX01047432.1:1..7955),gap(20),AAHX01047433.1:1..20884,
+            gap(20),complement(AAHX01047434.1:1..34991),gap(360),
+            AAHX01047435.1:1..1639,gap(2605),AAHX01047436.1:1..5552,gap(45),
+            AAHX01047437.1:1..1879,gap(20),complement(AAHX01047438.1:1..84362),
+            gap(20),AAHX01047439.1:1..40274,gap(20),AAHX01047440.1:1..34345,
+            gap(306),complement(AAHX01047441.1:1..1896),gap(20),
+            complement(AAHX01047442.1:1..15479),gap(119),
+            complement(AAHX01047443.1:1..10089),gap(233),
+            AAHX01047444.1:1..18303,gap(394),AAHX01047445.1:1..20003,gap(22),
+            AAHX01047446.1:1..16331,gap(553),
+            complement(AAHX01047447.1:1..4476),gap(269),
+            complement(AAHX01047448.1:1..9155),gap(20),AAHX01047449.1:1..7347,
+            gap(101),AAHX01047450.1:1..4494,gap(175),AAHX01047451.1:1..3013,
+            gap(231),complement(AAHX01047452.1:1..4650),gap(315),
+            AAHX01047453.1:1..9119,gap(760),complement(AAHX01047454.1:1..3112),
+            gap(977),complement(AAHX01047455.1:1..12981),gap(33),
+            complement(AAHX01047456.1:1..14565),gap(20),AAHX01047457.1:1..3271,
+            gap(302),complement(AAHX01047458.1:1..715),gap(283),
+            complement(AAHX01047459.1:1..59024),gap(73),AAHX01047460.1:1..3360,
+            gap(52),complement(AAHX01047461.1:1..21307),gap(659),
+            AAHX01047462.1:1..15605,gap(942),
+            complement(AAHX01047463.1:1..22183),gap(20),
+            AAHX01047464.1:1..45190,gap(20),AAHX01047465.1:1..33351,gap(20),
+            AAHX01047466.1:1..56118,gap(1697),AAHX01047467.1:1..40405,gap(20),
+            complement(AAHX01047468.1:1..92401),gap(20),
+            complement(AAHX01047469.1:1..14769),gap(20),AAHX01047470.1:1..5250,
+            gap(74),complement(AAHX01047471.1:1..3651),gap(20),
+            AAHX01047472.1:1..51867,gap(743),
+            complement(AAHX01047473.1:1..44748),gap(450),
+            AAHX01047474.1:1..30061,gap(20),complement(AAHX01047475.1:1..3149),
+            gap(20),AAHX01047476.1:1..19438,gap(425),AAHX01047477.1:1..67059,
+            gap(20),complement(AAHX01047478.1:1..96272),gap(32),
+            AAHX01047479.1:1..8469,gap(299),
+            complement(AAHX01047480.1:1..23219),gap(740),
+            AAHX01047481.1:1..8820,gap(241),AAHX01047482.1:1..26876,gap(20),
+            complement(AAHX01047483.1:1..13339),gap(20),AAHX01047484.1:1..2212,
+            gap(810),complement(AAHX01047485.1:1..45054),gap(294),
+            AAHX01047486.1:1..16632,gap(20),AAHX01047487.1:1..4376,gap(1008),
+            complement(AAHX01047488.1:1..5380),gap(931),AAHX01047489.1:1..4735,
+            gap(294),complement(AAHX01047490.1:1..10521),gap(478),
+            complement(AAHX01047491.1:1..11004),gap(615),
+            complement(AAHX01047492.1:1..1686),gap(621),
+            AAHX01047493.1:1..34485,gap(20),AAHX01047494.1:1..14128,gap(2254),
+            AAHX01047495.1:1..25657,gap(164),AAHX01047496.1:1..2913,gap(20),
+            complement(AAHX01047497.1:1..11639),gap(145),
+            AAHX01047498.1:1..2535,gap(223),
+            complement(AAHX01047499.1:1..77429),gap(259),AAHX01047500.1:1..288,
+            gap(530),AAHX01047501.1:1..5516,gap(20),AAHX01047502.1:1..15215,
+            gap(175),complement(AAHX01047503.1:1..18971),gap(32),
+            complement(AAHX01047504.1:1..29300),gap(162),
+            complement(AAHX01047505.1:1..6811),gap(329),
+            AAHX01047506.1:1..12428,gap(20),AAHX01047507.1:1..4846,gap(20),
+            AAHX01047508.1:1..6541,gap(245),AAHX01047509.1:1..1310,gap(933),
+            complement(AAHX01047510.1:1..3132),gap(1402),
+            AAHX01047511.1:1..22663,gap(128),
+            complement(AAHX01047512.1:1..2631),gap(34),
+            complement(AAHX01047513.1:1..1950),gap(20),
+            complement(AAHX01047514.1:1..1451),gap(1173),
+            AAHX01047515.1:1..1826,gap(20),AAHX01047516.1:1..81419,gap(20),
+            complement(AAHX01047517.1:1..15835),gap(218),
+            AAHX01047518.1:1..3482,gap(138),AAHX01047519.1:1..1565,gap(78),
+            AAHX01047520.1:1..51269,gap(20),AAHX01047521.1:1..1540,gap(755),
+            AAHX01047522.1:1..293,gap(101),AAHX01047523.1:1..6887,gap(106),
+            AAHX01047524.1:1..34085,gap(336),AAHX01047525.1:1..3543,gap(620),
+            AAHX01047526.1:1..15271,gap(132),AAHX01047527.1:1..18872,gap(20),
+            AAHX01047528.1:1..43672,gap(20),AAHX01047529.1:1..60878,gap(20),
+            AAHX01047530.1:1..5893,gap(20),complement(AAHX01047531.1:1..78605),
+            gap(398),AAHX01047532.1:1..14180,gap(20),AAHX01047533.1:1..19842,
+            gap(51),AAHX01047534.1:1..16916,gap(598),AAHX01047535.1:1..21954,
+            gap(347),complement(AAHX01047536.1:1..12782),gap(20),
+            complement(AAHX01047537.1:1..31081),gap(1566),
+            complement(AAHX01047538.1:1..16337),gap(20),AAHX01047539.1:1..9832,
+            gap(475),complement(AAHX01047540.1:1..14153),gap(67),
+            AAHX01047541.1:1..25048,gap(111),
+            complement(AAHX01047542.1:1..58694),gap(9909),
+            AAHX01047543.1:1..73008,gap(299),
+            complement(AAHX01047544.1:1..7699),gap(333),
+            AAHX01047545.1:1..26488,gap(20),AAHX01047546.1:1..1964,gap(20),
+            AAHX01047547.1:1..14565,gap(20),complement(AAHX01047548.1:1..5162),
+            gap(356),complement(AAHX01047549.1:1..28483),gap(537),
+            AAHX01047550.1:1..2530,gap(529),AAHX01047551.1:1..59328,gap(295),
+            complement(AAHX01047552.1:1..14574),gap(134),
+            complement(AAHX01047553.1:1..1603),gap(2657),
+            complement(AAHX01047554.1:1..8084),gap(20),
+            complement(AAHX01047555.1:1..4714),gap(20),AAHX01047556.1:1..20461,
+            gap(20),AAHX01047557.1:1..31338,gap(20),
+            complement(AAHX01047558.1:1..31375),gap(6445),
+            AAHX01047559.1:1..1275,gap(1074),AAHX01047560.1:1..6784,gap(1551),
+            complement(AAHX01047561.1:1..4997),gap(13042),
+            complement(AAHX01047562.1:1..15459),gap(22661),
+            complement(AAHX01047563.1:1..21772),gap(20),
+            AAHX01047564.1:1..19496,gap(167),AAHX01047565.1:1..4867,gap(2566),
+            AAHX01047566.1:1..33852,gap(88),
+            complement(AAHX01047567.1:1..63136),gap(3019),
+            complement(AAHX01047568.1:1..9000),gap(20),
+            complement(AAHX01047569.1:1..24273),gap(1600),
+            AAHX01047570.1:1..35500,gap(537),AAHX01047571.1:1..68507,
+            gap(12347),AAHX01047572.1:1..2019,gap(4013),
+            complement(AAHX01047573.1:1..21070),gap(441),
+            AAHX01047574.1:1..18378,gap(20),AAHX01047575.1:1..21283,gap(1821),
+            AAHX01047576.1:1..14829,gap(20),
+            complement(AAHX01047577.1:1..26555),gap(20),AAHX01047578.1:1..1113,
+            gap(571),AAHX01047579.1:1..8715,gap(483),
+            complement(AAHX01047580.1:1..10596),gap(1053),
+            complement(AAHX01047581.1:1..1116),gap(803),
+            complement(AAHX01047582.1:1..2152),gap(120),
+            AAHX01047583.1:1..10292,gap(201),AAHX01047584.1:1..69120,gap(298),
+            AAHX01047585.1:1..50347,gap(20),AAHX01047586.1:1..12885,gap(124),
+            AAHX01047587.1:1..15294,gap(51),
+            complement(AAHX01047588.1:1..26800),gap(514),
+            complement(AAHX01047589.1:1..14270),gap(203),
+            complement(AAHX01047590.1:1..11502),gap(118),
+            AAHX01047591.1:1..12125,gap(351),AAHX01047592.1:1..17297,gap(100),
+            AAHX01047593.1:1..14111,gap(20),AAHX01047594.1:1..7104,gap(238),
+            AAHX01047595.1:1..4236,gap(490),
+            complement(AAHX01047596.1:1..12945),gap(179),
+            complement(AAHX01047597.1:1..1096),gap(94),AAHX01047598.1:1..16551,
+            gap(37),complement(AAHX01047599.1:1..22729),gap(237),
+            complement(AAHX01047600.1:1..4579),gap(750),
+            complement(AAHX01047601.1:1..11546),gap(20),AAHX01047602.1:1..1041,
+            gap(20),AAHX01047603.1:1..3783,gap(214),AAHX01047604.1:1..21223,
+            gap(20),AAHX01047605.1:1..12732,gap(20),
+            complement(AAHX01047606.1:1..27526),gap(3245),
+            AAHX01047607.1:1..46603,gap(1120),AAHX01047608.1:1..142536,
+            gap(3673),AAHX01047609.1:1..41750,gap(21),
+            complement(AAHX01047610.1:1..1174),gap(20),AAHX01047611.1:1..2854,
+            gap(20),AAHX01047612.1:1..72020,gap(20),AAHX01047613.1:1..32411,
+            gap(20),complement(AAHX01047614.1:1..26007),gap(65),
+            AAHX01047615.1:1..3394,gap(20),AAHX01047616.1:1..70833,gap(306),
+            complement(AAHX01047617.1:1..12526),gap(20),
+            complement(AAHX01047618.1:1..1219),gap(49),
+            complement(AAHX01047619.1:1..11608),gap(20),
+            AAHX01047620.1:1..106986,gap(20),AAHX01047621.1:1..84950,gap(374),
+            AAHX01047622.1:1..131686,gap(1828),AAHX01047623.1:1..8487,
+            gap(7772),AAHX01047624.1:1..1819,gap(350),
+            complement(AAHX01047625.1:1..10393),gap(947),
+            complement(AAHX01047626.1:1..1757),gap(20),AAHX01047627.1:1..25610,
+            gap(83),complement(AAHX01047628.1:1..17508),gap(5997),
+            complement(AAHX01047629.1:1..1891),gap(250),
+            complement(AAHX01047630.1:1..3754),gap(798),
+            AAHX01047631.1:1..24689,gap(3977),AAHX01047632.1:1..2244,gap(189),
+            complement(AAHX01047633.1:1..13356),gap(521),
+            AAHX01047634.1:1..31053,gap(20),complement(AAHX01047635.1:1..1640),
+            gap(20),complement(AAHX01047636.1:1..3163),gap(647),
+            AAHX01047637.1:1..1746)
+//
+
+LOCUS       CM000237           131452414 bp    DNA     linear   CON 23-MAR-2015
+DEFINITION  Rattus norvegicus chromosome 7, whole genome shotgun sequence.
+ACCESSION   CM000237 AAHX01000000
+VERSION     CM000237.2
+DBLINK      BioProject: PRJNA13999
+            BioSample: SAMN03000701
+KEYWORDS    WGS.
+SOURCE      Rattus norvegicus (Norway rat)
+  ORGANISM  Rattus norvegicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Rattus.
+REFERENCE   1  (bases 1 to 131452414)
+  AUTHORS   Mural,R.J., Li,P.W., Adams,M.D., Amanatides,P.G., Baden-Tillson,H.,
+            Barnstead,M., Chin,S.H., Dew,I., Evans,C.A., Ferriera,S.,
+            Flanigan,M., Fosler,C., Glodek,A., Gu,Z., Holt,R.A., Jennings,D.,
+            Kraft,C.L., Lu,F., Nguyen,T., Nusskern,D.R., Pfannkoch,C.M.,
+            Sitter,C., Sutton,G.G., Venter,J.C., Wang,Z., Woodage,T.,
+            Zheng,X.H. and Zhong,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JUL-2005) Celera Genomics, 45 W. Gude Dr., Rockville,
+            MD 20850, USA
+REFERENCE   2  (bases 1 to 131452414)
+  AUTHORS   Mural,R.J., Li,P.W., Adams,M.D., Amanatides,P.G., Baden-Tillson,H.,
+            Barnstead,M., Chin,S.H., Dew,I., Evans,C.A., Ferriera,S.,
+            Flanigan,M., Fosler,C., Glodek,A., Gu,Z., Holt,R.A., Jennings,D.,
+            Kraft,C.L., Lu,F., Nguyen,T., Nusskern,D.R., Pfannkoch,C.M.,
+            Sitter,C., Sutton,G.G., Venter,J.C., Wang,Z., Woodage,T.,
+            Zheng,X.H. and Zhong,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2005) Celera Genomics, 45 W. Gude Dr., Rockville,
+            MD 20850, USA
+COMMENT     On Sep 12, 2005 this sequence version replaced CM000237.1.
+            This is the January 2003 combined whole genome shotgun assembly of
+            Rattus norvegicus. It contains 29 million Brown Norway fragments
+            sequenced by Celera and external sources and nearly eight million
+            Celera-proprietary Sprague-Dawley sequence fragments. The assembly
+            process relied on Celera's paired reads and BAC end reads from TIGR
+            for long range order and orientation. Its scaffolds were mapped to
+            chromosomes using STS maps. For more detailed information about
+            whole genome sequencing and Celera's assembly process, please refer
+            to Venter, J.C. et al. Science 2001. 291:1304-1351.
+FEATURES             Location/Qualifiers
+     source          1..131452414
+                     /organism="Rattus norvegicus"
+                     /mol_type="genomic DNA"
+                     /strain="BN; Sprague-Dawley"
+                     /db_xref="taxon:10116"
+                     /chromosome="7"
+CONTIG      join(CH474144.1:1..126287,gap(182895),CH474104.2:1..1347837,
+            gap(182895),CH474029.1:1..8799887,gap(182895),CH474116.1:1..713566,
+            gap(182895),CH474088.2:1..2503185,gap(182895),DS030449.1:1..3994,
+            gap(182895),CH473960.2:1..39313205,gap(182895),CH474174.1:1..8860,
+            gap(182895),CH474127.1:1..462775,gap(182895),
+            CH473950.2:1..58845771,gap(182895),CH474027.1:1..8834113,
+            gap(182895),CH474035.2:1..8241369,gap(182895),CH474157.1:1..56825)
+//
+
+LOCUS       AY570513                 762 bp    mRNA    linear   ROD 31-MAR-2004
+DEFINITION  Rattus norvegicus sperm nucleus phospholipid-hydroperoxide
+            glutathione peroxidase (GPx4) mRNA, complete cds.
+ACCESSION   AY570513
+VERSION     AY570513.1
+KEYWORDS    .
+SOURCE      Rattus norvegicus (Norway rat)
+  ORGANISM  Rattus norvegicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Rattus.
+REFERENCE   1  (bases 1 to 762)
+  AUTHORS   Tramer,F., Vetere,A., Martinelli,M., Paroni,F., Marsich,E.,
+            Sandri,G. and Panfili,E.
+  TITLE     Cloning of cDNA of rat phospholipid hydroperoxide/sperm nucleus
+            glutathione peroxidase
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 762)
+  AUTHORS   Tramer,F., Vetere,A., Martinelli,M., Paroni,F., Marsich,E.,
+            Sandri,G. and Panfili,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAR-2004) Biochemistry, Biophysics and Macromolecular
+            Chemistry, University of Trieste, Via Licio Giorgieri 1, Trieste
+            34127, Italy
+FEATURES             Location/Qualifiers
+     source          1..762
+                     /organism="Rattus norvegicus"
+                     /mol_type="mRNA"
+                     /strain="Wistar"
+                     /db_xref="taxon:10116"
+     gene            1..762
+                     /gene="GPx4"
+     CDS             1..762
+                     /gene="GPx4"
+                     /EC_number="1.11.1.12"
+                     /note="selenoprotein"
+                     /codon_start=1
+                     /transl_except=(pos:385..387,aa:Sec)
+                     /product="sperm nucleus phospholipid-hydroperoxide
+                     glutathione peroxidase"
+                     /protein_id="AAS76675.1"
+                     /translation="MGRAAARKRGRCRQRGRSPGGRRRREPGRQSPRKRPGPRRRRAR
+                     ARRRRRARPRRMEPIPEPFNPRPLLQDLPQTSNSHEFLGLCASRDDWRCARSMHEFAA
+                     KDIDGHMVCLDKYRGCVCIVTNVASQUGKTDVNYTQLVDLHARYAECGLRILAFPCNQ
+                     FGRQEPGSNQEIKEFAAGYNVRFDMYSKICVSGDDAHPLWKWMKVQPKGRGMLGNAIK
+                     WNFTKFLIDKNGCVVKRYGPMEEPQVIEKDLPCYL"
+ORIGIN      
+        1 atgggccgcg cggccgcccg caagcgggga cgctgcagac agcgcggccg gtccccggga
+       61 ggccggcgac ggcgtgaacc tggacgccaa agtcctagga agcgcccagg ccctcggagg
+      121 aggagagctc gcgcgcgccg ccgcaggagg gcgcgccctc gccggatgga gcccattccc
+      181 gagcctttca acccgcggcc tctgctgcag gaccttcccc agaccagcaa cagccacgag
+      241 ttcctgggct tgtgtgcatc ccgcgatgat tggcgctgtg cgcgctccat gcacgaattc
+      301 gcagccaagg acatcgatgg gcacatggtt tgcctggata agtacagggg ttgcgtgtgc
+      361 atcgtcacca acgtggcctc gcaatgaggc aaaaccgacg taaactacac tcagctagtc
+      421 gatctgcatg cccgatacgc cgagtgtggt ttacgaatcc tggccttccc ttgcaaccag
+      481 ttcgggaggc aggagccagg aagtaatcaa gaaatcaagg agtttgcagc cggctacaat
+      541 gtcaggtttg acatgtacag caagatctgt gtaagtgggg acgatgccca cccactgtgg
+      601 aaatggatga aagtccagcc caagggcagg ggcatgctgg gaaatgccat caaatggaac
+      661 tttaccaagt ttctcattga taagaacggc tgcgtggtga agcgctatgg tcccatggag
+      721 gagccccagg tgatagagaa ggacctgccg tgctatctct ag
+//
+NM_001368043.1
+NM_001039849.3
+NM_017165.4
+AB072798.1
+NC_086025.1
+XM_032908374.1
+XM_032908372.1
+NC_046154.1
+CH474029.1
+CM000237.2
+AY570513.1

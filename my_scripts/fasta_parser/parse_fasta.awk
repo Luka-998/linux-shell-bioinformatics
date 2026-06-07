@@ -5,7 +5,7 @@ BEGIN {
 }
 
 /^>/ {
-    if (header != "" && seq !~ /N/) {
+    if (header != "" && seq ~ /^[AGCT]+$/) {
         print header, length(seq), seq
     }
 
@@ -19,8 +19,8 @@ BEGIN {
     seq = seq $0
 }
 
-END {
-    if (header != "" && seq !~ /N/) {
+END {S
+    if (header != "" && seq ~ /^[AGCT]+$/) {
         print header, length(seq), seq
     }
 }

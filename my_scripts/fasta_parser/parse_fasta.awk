@@ -5,7 +5,7 @@ BEGIN {
 }
 
 /^>/ {
-    if (header != "" && seq ~ /^[AGCT]+$/) {
+    if (header != "" && seq ~ /^[AGCT]+$/ && length(seq)<8192) {
         print header, length(seq), seq
     }
 
@@ -20,7 +20,7 @@ BEGIN {
 }
 
 END {S
-    if (header != "" && seq ~ /^[AGCT]+$/) {
+    if (header != "" && seq ~ /^[AGCT]+$/ && length(seq)<8192) {
         print header, length(seq), seq
     }
 }

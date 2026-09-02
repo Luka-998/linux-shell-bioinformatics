@@ -7,3 +7,6 @@ wget-log
 dataset/
 literatura/
 *.gb
+*.fasta
+clean_sequence*.tsv
+

@@ -3,9 +3,9 @@
 
 INPUT="$1"
 OUTPUT="$2"
-AWK_BASE_COUNTER="/home/skeja/linux-shell-bioinformatics/my_scripts/fasta_parser/check_bases.awk"
-AWK_PARSE_FASTA="/home/skeja/linux-shell-bioinformatics/my_scripts/fasta_parser/parse_fasta.awk"
-AWK_BASE_COUNTER_TSV="/home/skeja/linux-shell-bioinformatics/my_scripts/fasta_parser/check_bases_tsv.awk"
+AWK_BASE_COUNTER="/home/skeja/linux-shell-bioinformatics/my_scripts_shell/fasta_parser/check_bases.awk"
+AWK_PARSE_FASTA="/home/skeja/linux-shell-bioinformatics/my_scripts_shell/fasta_parser/parse_fasta.awk"
+AWK_BASE_COUNTER_TSV="/home/skeja/linux-shell-bioinformatics/my_scripts_shell/fasta_parser/check_bases_tsv.awk"
 if [ ! -f "$INPUT" ]; then
 	echo "ERROR: Missing input file!"
 	exit 1

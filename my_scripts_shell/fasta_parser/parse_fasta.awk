@@ -19,7 +19,7 @@ BEGIN {
     seq = seq $0
 }
 
-END {S
+END {
     if (header != "" && seq ~ /^[AGCT]+$/ && length(seq)<8192) {
         print header, length(seq), seq
     }
